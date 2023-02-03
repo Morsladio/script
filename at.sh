@@ -1,3 +1,4 @@
+apachectl
 cd ..
 cd usr/share/apache2/default-site/htdocs
 clear
